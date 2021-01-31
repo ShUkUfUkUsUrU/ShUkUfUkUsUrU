@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=roza-rio&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=roza-rio&repo=pixel-weather">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/?username=roza-rio&repo=pixel-weather">
 </p>
 
 
