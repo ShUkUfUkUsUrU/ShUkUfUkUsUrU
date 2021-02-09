@@ -4,7 +4,7 @@
 
 <p align="center">
 <h1 align='center'>Hi👋</h1>
-![Visitor Count](https://profile-counter.glitch.me/roza-rio/count.svg)
+<img src ="https://profile-counter.glitch.me/roza-rio/count.svg">
 
 - 🔭 I’m currently working on nothing. 😜
 - 🌱 I’m currently learning Javascript.
