@@ -20,6 +20,6 @@
 
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=roza-rio&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=roza-rio&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api?username=rozari0&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rozario0&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=tex,css,php">
 </p>
