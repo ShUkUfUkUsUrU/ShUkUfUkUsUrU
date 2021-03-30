@@ -21,6 +21,5 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=rozari0&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&include_all_commits=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rozari0&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=tex,css,php">
-  <img src="https://goodreads-readme-rletl7kcs-roza-rio.vercel.app/api/book" alt="GoodReads"/><br>
   <img src ="https://spotify-github-profile.vercel.app/api/view.svg?uid=it4uxjum70kytpp5cy8ehzg7r&cover_image=true&theme=default">
 </p>
