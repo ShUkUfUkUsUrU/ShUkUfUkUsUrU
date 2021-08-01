@@ -7,9 +7,9 @@
 <img src ="https://profile-counter.glitch.me/ShUkUfUkUsUrU/count.svg">
 
 - 🔭 I’m currently working on nothing. 😜
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Web Development.
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with Python.
+- 🤔 I’m looking for help with HTML or JS.
 <!-- - 💬 Ask me about nothing.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
